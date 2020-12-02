@@ -1,0 +1,17 @@
+@font-face{
+    font-family:courgette ;
+    src: format("../css/fonts/Courgette-Regular.ttf");
+}
+@font-face{
+    font-family:courgette ;
+    src: format("../css/fonts/Oswald-VariableFont_wght.ttf");
+}
+.bloc1{
+    background-color: black;
+    color: white;
+    display: flex;
+}
+.bloc1 ul{
+  
+    text-align: right;
+}
