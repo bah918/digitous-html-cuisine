@@ -10,4 +10,8 @@ header{
     background: url("../img/header.jpg") no-repeat center;
     height: 600px;
     background-size: cover;
+    color: white;
+}
+.log-sq{
+    width: 100px;
 }
