@@ -1,17 +1,13 @@
 @font-face{
     font-family:courgette ;
-    src: format("../css/fonts/Courgette-Regular.ttf");
+    src: url("./../fonts/Courgette-Regular.ttf");
 }
 @font-face{
     font-family:courgette ;
-    src: format("../css/fonts/Oswald-VariableFont_wght.ttf");
+    src: url("./../fonts/Oswald-VariableFont_wght.ttf");
 }
-.bloc1{
-    background-color: black;
-    color: white;
-    display: flex;
-}
-.bloc1 ul{
-  
-    text-align: right;
+header{
+    background: url("../img/header.jpg") no-repeat center;
+    height: 600px;
+    background-size: cover;
 }
